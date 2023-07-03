@@ -1,0 +1,8 @@
+city,station_id,station,latitude,longitude,slots,empty_slots,free_bikes,station_near_from
+Saguenay,b6903d788830595e054121e462598381,Place du Citoyen,48.4280227,-71.0625061,7,4,2,"48.428023, -71.062506"
+Saguenay,3aa299f4d3048ef94737bbf5fbc03825,Place du Royaume,48.4044567,-71.0582083,7,1,6,"48.404457, -71.058208"
+Saguenay,0b1c0c48e94fae24b1a38f4559a5985a,UQAC,48.42048,-71.05338,7,5,2,"48.420480, -71.053380"
+Saguenay,f450af93c8d0f5ae5de8ea7cb1aafe70,Terminus La Baie,48.3372301,-70.8795642,7,5,2,"48.337230, -70.879564"
+Saguenay,7ada5d893c40c9a46a54f771a392db6f,Cégep de Chicoutimi,48.42511890000001,-71.0513359,7,5,2,"48.425119, -71.051336"
+Saguenay,989fc50e15bad6b1f40d26f986d50ccc,Station Rene-Levesque,48.404255,-71.2163722,7,7,0,"48.404255, -71.216372"
+Saguenay,e5b2a5bf7b36bcd5d52ca0d63a56ae06,Terminus Jonquiere,48.4118069,-71.2548896,7,3,4,"48.411807, -71.254890"
